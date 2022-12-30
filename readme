@@ -7,4 +7,4 @@ turtle
 To download it:
 "pip install turtle"
 or
-"pip install tkinter-python"
+"pip install python3-tkinter"
