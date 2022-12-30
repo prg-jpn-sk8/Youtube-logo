@@ -34,7 +34,7 @@ end_fill()
 pencolor("black")
 
 penup()
-goto(-245, -285)
+goto(-235, -285)
 pendown()
 
 write("Youtube", font=("Verdana", 90))
